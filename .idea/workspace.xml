@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="873229c8-c18b-4513-95ba-5c40417691bb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-170362026">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.4" value="6" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bmp" value="16" />
+          <entry key="py" value="119" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="16" />
+          <entry key="Python" value="119" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="16" />
+          <entry key="py" value="20424" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="20424" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1578494832">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bmp" value="26" />
+          <entry key="jpg" value="3" />
+          <entry key="py" value="64" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="29" />
+          <entry key="Python" value="64" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="20" />
+          <entry key="py" value="9428" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Python" value="9428" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1222533401">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bmp" value="5" />
+          <entry key="py" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="5" />
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="14" />
+          <entry key="py" value="2583" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Python" value="2583" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Lemon" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lemon/lemon_tea.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#72#81#0" expanded="true" />
+                <element signature="e#190#241#0" />
+                <element signature="e#283#587#0" />
+                <element signature="e#647#1288#0" />
+                <element signature="e#675#1402#0" />
+                <element signature="e#1492#1900#0" />
+                <element signature="e#1968#2597#0" />
+                <element signature="e#1951#3898#0" />
+                <element signature="e#3936#5267#0" />
+                <element signature="e#5997#6786#0" />
+                <element signature="e#6847#8163#0" />
+                <element signature="e#8218#8964#0" />
+                <element signature="e#9054#11339#0" />
+                <element signature="e#12072#12635#0" />
+                <marker date="1543997828663" expanded="true" signature="181:247" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bit</find>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lemon/GUI/Aggregate.py" />
+        <option value="$PROJECT_DIR$/GUI/Aggregate.py" />
+        <option value="$PROJECT_DIR$/Lemon/lemon.py" />
+        <option value="$PROJECT_DIR$/GUI/test.py" />
+        <option value="$PROJECT_DIR$/GUI/Main.py" />
+        <option value="$PROJECT_DIR$/GUI/lemon_tea.py" />
+        <option value="$PROJECT_DIR$/test/test_rotation.py" />
+        <option value="$PROJECT_DIR$/os/test_merge.py" />
+        <option value="$PROJECT_DIR$/test/test_otsu.py" />
+        <option value="$PROJECT_DIR$/test/test_adapativeThre.py" />
+        <option value="$PROJECT_DIR$/test/t.py" />
+        <option value="$PROJECT_DIR$/test/test_canny.py" />
+        <option value="$PROJECT_DIR$/test/holesPoly.py" />
+        <option value="$PROJECT_DIR$/test/kl.py" />
+        <option value="$PROJECT_DIR$/test/kengdie.py" />
+        <option value="$PROJECT_DIR$/test/kengd.py" />
+        <option value="$PROJECT_DIR$/os/rename.py" />
+        <option value="$PROJECT_DIR$/test/ttt.py" />
+        <option value="$PROJECT_DIR$/test/test.py" />
+        <option value="$PROJECT_DIR$/test/test_pedal.py" />
+        <option value="$PROJECT_DIR$/test/test_threshold.py" />
+        <option value="$PROJECT_DIR$/test/test_threshold.py" />
+        <option value="$PROJECT_DIR$/test/test_pedal.py" />
+        <option value="$PROJECT_DIR$/test/test.py" />
+        <option value="$PROJECT_DIR$/test/seggg.py" />
+        <option value="$PROJECT_DIR$/Test/test_pedal.py" />
+        <option value="$PROJECT_DIR$/os/zoom.py" />
+        <option value="$PROJECT_DIR$/Test/seggg.py" />
+        <option value="$PROJECT_DIR$/Test/test_canny.py" />
+        <option value="$PROJECT_DIR$/Test/test_cornerCheck.py" />
+        <option value="$PROJECT_DIR$/Test/test_matchTemplate.py" />
+        <option value="$PROJECT_DIR$/LemonBackUp/circle_fitting.py" />
+        <option value="$PROJECT_DIR$/utilize/lemon_tea.py" />
+        <option value="$PROJECT_DIR$/Lemon/t.py" />
+        <option value="$PROJECT_DIR$/os/rotate.py" />
+        <option value="$PROJECT_DIR$/os/merge.py" />
+        <option value="$PROJECT_DIR$/utilize/selectPedal.py" />
+        <option value="$PROJECT_DIR$/os/2gray.py" />
+        <option value="$PROJECT_DIR$/Lemon/modified.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/Test/lemon_tea.py" />
+        <option value="$PROJECT_DIR$/Test/test_threshold.py" />
+        <option value="$PROJECT_DIR$/Test/test.py" />
+        <option value="$PROJECT_DIR$/Test/test_rect_fitting.py" />
+        <option value="$PROJECT_DIR$/Test/test_lemon_tea.py" />
+        <option value="$PROJECT_DIR$/Lemon/te.py" />
+        <option value="$PROJECT_DIR$/utilize/drawcontour.py" />
+        <option value="$PROJECT_DIR$/Lemon/aqiang.py" />
+        <option value="$PROJECT_DIR$/Lemon/test.py" />
+        <option value="$PROJECT_DIR$/Lemon/test.py" />
+        <option value="$PROJECT_DIR$/Lemon/lemon_tea.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LemonTea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LemonTea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LemonTea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LemonTea" type="462c0819:PsiDirectoryNode" />
+              <item name="Lemon" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\puzzledlee\pyproject\LemonTea\Test" />
+      <recent name="H:\puzzledlee\pyproject\LemonTea\test" />
+      <recent name="H:\puzzledlee\pyproject\LemonTea\img" />
+      <recent name="H:\puzzledlee\pyproject\Lemon\img" />
+      <recent name="H:\puzzledlee\pyproject\Lemon\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\puzzledlee\pyproject\LemonTea\utilize" />
+      <recent name="H:\puzzledlee\pyproject\LemonTea\Test" />
+      <recent name="H:\puzzledlee\pyproject\LemonTea\Lemon" />
+      <recent name="H:\puzzledlee\pyproject\Lemon\utilize" />
+      <recent name="H:\puzzledlee\pyproject\Lemon\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LemonTea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lemon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lemon/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="873229c8-c18b-4513-95ba-5c40417691bb" name="Default Changelist" comment="" />
+      <created>1541647741576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541647741576</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49932706" visible="true" weight="0.18758816" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50067294" side_tool="true" weight="0.23413259" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32839838" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3001346" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39838493" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lemon/modified.py</url>
+          <line>208</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Test/holesPoly.py" />
+    <entry file="file://$PROJECT_DIR$/Test/test.jpg" />
+    <entry file="file://$PROJECT_DIR$/LemonBackUp/circle_fitting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lemon/t.py" />
+    <entry file="file://$PROJECT_DIR$/Test/seggg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="69" lean-forward="true" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/os/rename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/os/rotate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/os/merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/OK_merge.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/NG_merge.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/lemon.jpg" />
+    <entry file="file://$PROJECT_DIR$/os/2gray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lemon/modified.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="198" column="47" lean-forward="true" selection-start-line="198" selection-start-column="47" selection-end-line="198" selection-end-column="47" />
+          <folding>
+            <element signature="e#29#45#0" expanded="true" />
+            <element signature="e#154#556#0" />
+            <element signature="e#607#2050#0" />
+            <element signature="e#2102#2939#0" />
+            <element signature="e#3723#4909#0" />
+            <element signature="e#5025#6878#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py" />
+    <entry file="file://C:/Python/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilize/selectPedal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/test.py" />
+    <entry file="file://$PROJECT_DIR$/Test/test_pedal.py" />
+    <entry file="file://$PROJECT_DIR$/Test/test_matchTemplate.py" />
+    <entry file="file://$PROJECT_DIR$/Test/1.bmp_2.bmp" />
+    <entry file="file://$PROJECT_DIR$/Test/1.bmp_1.bmp" />
+    <entry file="file://$PROJECT_DIR$/Test/test_rect_fitting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/test_threshold.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lemon/te.py" />
+    <entry file="file://$PROJECT_DIR$/Test/test_lemon_tea.py" />
+    <entry file="file://$PROJECT_DIR$/utilize/lemon_tea.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilize/1_1.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/1_2.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/1_3.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/2_2.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/2_3.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/3_3.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/4_1.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/4_3.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/4_2.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/5_2.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/5_3.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/6_1.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/7_1.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/7_3.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/10_1.bmp" />
+    <entry file="file://$PROJECT_DIR$/utilize/drawcontour.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5130">
+          <caret line="273" column="26" lean-forward="true" selection-start-line="273" selection-start-column="26" selection-end-line="273" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/fitted.bmp" />
+    <entry file="file://$PROJECT_DIR$/img/NG_PEDAL.bmp" />
+    <entry file="file://$PROJECT_DIR$/img/OK_PEDAL.bmp" />
+    <entry file="file://$PROJECT_DIR$/img/pts.bmp" />
+    <entry file="file://$PROJECT_DIR$/Lemon/lemon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1767">
+          <caret line="95" column="46" lean-forward="true" selection-start-line="95" selection-start-column="46" selection-end-line="95" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lemon/gray.bmp" />
+    <entry file="file://$PROJECT_DIR$/Lemon/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lemon/aqiang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="140" column="21" lean-forward="true" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+          <folding>
+            <element signature="e#183#580#0" />
+            <element signature="e#620#3000#0" />
+            <element signature="e#3198#4994#0" />
+            <element signature="e#5046#5883#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lemon/lemon_tea.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#72#81#0" expanded="true" />
+            <element signature="e#190#241#0" />
+            <element signature="e#283#587#0" />
+            <element signature="e#647#1288#0" />
+            <element signature="e#675#1402#0" />
+            <element signature="e#1492#1900#0" />
+            <element signature="e#1968#2597#0" />
+            <element signature="e#1951#3898#0" />
+            <element signature="e#3936#5267#0" />
+            <element signature="e#5997#6786#0" />
+            <element signature="e#6847#8163#0" />
+            <element signature="e#8218#8964#0" />
+            <element signature="e#9054#11339#0" />
+            <element signature="e#12072#12635#0" />
+            <marker date="1543997828663" expanded="true" signature="181:247" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
